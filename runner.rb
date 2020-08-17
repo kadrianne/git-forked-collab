@@ -4,3 +4,4 @@ Cli.new.start_game
 
 
 
+p "Kristine"
